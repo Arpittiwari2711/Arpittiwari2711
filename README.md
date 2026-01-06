@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [portfolio-psi-seven-62.vercel.app](portfolio-psi-seven-62.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-psi-seven-62.vercel.app](https://portfolio-psi-seven-62.vercel.app/)
 
 - 📫 How to reach me **tiwariarpitat2711@gmail.com**
 
